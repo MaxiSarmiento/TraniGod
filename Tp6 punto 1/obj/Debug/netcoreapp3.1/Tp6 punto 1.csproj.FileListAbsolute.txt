@@ -1,0 +1,14 @@
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.csproj.AssemblyReference.cache
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.AssemblyInfoInputs.cache
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.AssemblyInfo.cs
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.csproj.CoreCompileInputs.cache
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.exe
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.deps.json
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.runtimeconfig.json
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.runtimeconfig.dev.json
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.dll
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\bin\Debug\netcoreapp3.1\Tp6 punto 1.pdb
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.dll
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.pdb
+D:\Juegos\Facultad\Programacion\Visual Basic\Tp6 punto 1\obj\Debug\netcoreapp3.1\Tp6 punto 1.genruntimeconfig.cache

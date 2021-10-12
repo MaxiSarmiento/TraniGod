@@ -1,0 +1,12 @@
+#1
+Nombre:Jumanji
+Director: Joe Johnson
+Año: 1996
+Genero: action,Adventure
+#2
+Nombre:Tenacious D: The Pick of Destiny
+Director: Liam Lynch
+Año: 2006
+Genero: Comedy,Musical
+
+
